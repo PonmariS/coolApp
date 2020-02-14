@@ -1,0 +1,38 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    margin:0;
+    font-family:'san-serif';
+    font-size:18px;
+}
+
+.container
+{
+    width:80%;
+    margin:0 auto;
+   
+}
+
+header{
+    background:rgb(111, 0, 255);
+    padding:1em 0;
+       
+}
+
+.logo
+{
+    font-size: 23px;
+    font-weight: bold;
+}
+nav{
+    float:right;
+}
+ul{
+    list-style-type: none;
+    margin:0;
+    display:flex;
+    
+}
+li a{
+    padding:1em;
+
+}
